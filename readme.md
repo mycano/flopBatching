@@ -8,3 +8,6 @@ Please use the following command with pip.
 ```python
 pip install -r requirements.txt
 ```
+
+# p.s.
+the pdf file is measured in Intel(R) Core(TM) i7-6700 CPU@3.40GHz.
